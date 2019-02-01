@@ -1,0 +1,3 @@
+var typedoc = typedoc || {};
+            typedoc.search = typedoc.search || {};
+            typedoc.search.data = {"kinds":{"64":"Function","65536":"Type literal","4194304":"Type alias"},"rows":[{"id":0,"kind":4194304,"name":"external","url":"globals.html#external","classes":"tsd-kind-type-alias tsd-is-not-exported"},{"id":1,"kind":4194304,"name":"path","url":"globals.html#path","classes":"tsd-kind-type-alias tsd-is-not-exported"},{"id":2,"kind":64,"name":"rollupExternalModules","url":"globals.html#rollupexternalmodules","classes":"tsd-kind-function"},{"id":3,"kind":65536,"name":"__type","url":"globals.html#rollupexternalmodules.__type","classes":"tsd-kind-type-literal tsd-parent-kind-function","parent":"rollupExternalModules"}]};
