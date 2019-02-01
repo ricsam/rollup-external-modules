@@ -1,15 +1,15 @@
 {
   "name": "rollup-external-modules",
   "version": "0.0.0-development",
-  "description": "Don't bundle external modules",
-  "keywords": [],
+  "description": "Mark all modules from in node_modules directory as external for rollup.",
+  "keywords": ["rollup", "externals"],
   "main": "dist/rollup-external-modules.umd.js",
   "module": "dist/rollup-external-modules.es5.js",
   "typings": "dist/types/rollup-external-modules.d.ts",
   "files": [
     "dist"
   ],
-  "author": "Richard Samuelsson <richard.samuelsson@redeye.se>",
+  "author": "Richard Samuelsson <richie@screed.app>",
   "repository": {
     "type": "git",
     "url": "https://github.com/ricsam/rollup-external-modules.git"
