@@ -1,7 +1,7 @@
 # rollup-external-modules
 
-[![Travis](https://img.shields.io/travis/ricsam/rollup-external-modules.svg)](https://travis-ci.org/ricsam/rollup-external-modules)
-[![Coveralls](https://img.shields.io/coveralls/ricsam/rollup-external-modules.svg)](https://coveralls.io/github/ricsam/rollup-external-modules)
+[![Build Status](https://travis-ci.org/ricsam/rollup-external-modules.svg?branch=master)](https://travis-ci.org/ricsam/rollup-external-modules)
+[![Coverage Status](https://coveralls.io/repos/github/ricsam/rollup-external-modules/badge.svg?branch=master)](https://coveralls.io/github/ricsam/rollup-external-modules?branch=master)
 
 Mark all modules located in node_modules as external.
 
