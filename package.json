@@ -1,7 +1,7 @@
 {
   "name": "rollup-external-modules",
   "version": "0.0.0-development",
-  "description": "Mark all modules from in node_modules directory as external for rollup.",
+  "description": "Mark all modules located in node_modules as external",
   "keywords": ["rollup", "externals"],
   "main": "dist/rollup-external-modules.umd.js",
   "module": "dist/rollup-external-modules.es5.js",

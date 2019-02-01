@@ -3,7 +3,7 @@
 [![Travis](https://img.shields.io/travis/ricsam/rollup-external-modules.svg)](https://travis-ci.org/ricsam/rollup-external-modules)
 [![Coveralls](https://img.shields.io/coveralls/ricsam/rollup-external-modules.svg)](https://coveralls.io/github/ricsam/rollup-external-modules)
 
-Mark all modules from in node_modules directory as external for rollup.
+Mark all modules located in node_modules as external.
 
 ### Installation
 
