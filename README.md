@@ -1,5 +1,6 @@
 # rollup-external-modules
 
+![NPM version](https://img.shields.io/npm/v/rollup-external-modules.svg?style=flat)
 [![Build Status](https://travis-ci.org/ricsam/rollup-external-modules.svg?branch=master)](https://travis-ci.org/ricsam/rollup-external-modules)
 [![Coverage Status](https://coveralls.io/repos/github/ricsam/rollup-external-modules/badge.svg?branch=master)](https://coveralls.io/github/ricsam/rollup-external-modules?branch=master)
 
